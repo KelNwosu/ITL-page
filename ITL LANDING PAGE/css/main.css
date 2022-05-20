@@ -1,0 +1,26 @@
+.toplogo img {
+    height: 10%;
+    width: 10%;
+}
+
+.navbar {
+    color: #94D40B;
+}
+
+.sans {
+    font-family: 'Merriweather', serif;
+
+}
+
+body {
+    background: rgb(148, 212, 11);
+    background: linear-gradient(180deg, rgba(148, 212, 11, 1) 0%, rgba(0, 0, 0, 1) 56%);
+}
+
+.trial {
+    font-size: 2em;
+}
+
+.icons {
+    color: white;
+}
